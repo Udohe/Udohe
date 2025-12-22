@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Udohe
-- 👀 I’m interested in  flutter, dart and firebase
-- 🌱 I’m currently learning flutter ,dart and firebase
-- 💞️ I’m looking to collaborate on flutter developers
-- 📫 How to reach me ...
+👋 Hi, I’m @Raymond  
 
-<!---
-Udohe/Udohe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in **Data Analysis, Business Intelligence, and SQL**  
+
+🌱 I’m currently learning **Data Analysis tools** including **SQL, Excel, Power BI, and Python**  
+
+💞️ I’m looking to collaborate on **data analysis projects**, dashboards, and real-world datasets  
+
+📊 I enjoy turning raw data into meaningful insights and visual stories  
+
+
+
