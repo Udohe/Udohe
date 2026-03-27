@@ -1,12 +1,15 @@
-👋 Hi, I’m @Raymond  
+👋 Hi, I’m Raymond
 
-👀 I’m interested in **Data Analysis, Business Intelligence, and SQL**  
+👀 I’m interested in Data Analysis, Business Intelligence, and Web Development
 
-🌱 I’m currently learning **Data Analysis tools** including **SQL, Excel, Power BI, and Python**  
+🌱 I’m currently learning and improving my skills in:
 
-💞️ I’m looking to collaborate on **data analysis projects**, dashboards, and real-world datasets  
+Data Analysis tools: SQL, Excel, Power BI, Python
+Web Development: HTML, CSS, Bootstrap, and Django
 
-📊 I enjoy turning raw data into meaningful insights and visual stories  
+💞️ I’m looking to collaborate on data analysis projects, dashboards, and real-world datasets, as well as web-based applications
+
+📊 I enjoy turning raw data into meaningful insights and visual stories, and building clean, responsive web interfaces to present them
 
 
 
